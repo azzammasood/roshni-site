@@ -1,0 +1,11 @@
+:HL["/roshni-site/_next/static/chunks/23rowzjpsjnie.css","style"]
+:HL["/roshni-site/_next/static/chunks/1apado_903d_3.css","style"]
+:HL["/roshni-site/_next/static/media/dm_serif_display_latin_400-s.p.1djctenx_0un1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/roshni-site/_next/static/media/ibm_plex_mono_latin_400-s.p.3xdfs0-p_zi4c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/roshni-site/_next/static/media/ibm_plex_mono_latin_600-s.p.30e0eqd5fxn92.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/roshni-site/_next/static/media/source_serif_4_latin_var-s.p.2bbm7w9b-e07f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"slug","t":"d","k":"iesco-islamabad-116607","s":[]},"h":65632,"c":"$Q4"}]]
+2:[["children",{"s":"feeder","h":131136,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"lang","t":"d","k":"en","s":["fonts"]},"h":196656,"c":"$Q2"}]]
+0:{"b":"mUsR2PRjs2_Y9GySRtB_P","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

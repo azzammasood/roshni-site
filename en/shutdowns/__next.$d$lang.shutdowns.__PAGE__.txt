@@ -1,0 +1,31 @@
+3:"$Sreact.fragment"
+4:"/roshni-site/_next/static/chunks/0umf92h1sb77c.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+b:"/roshni-site/_next/static/chunks/0y4p_3tsjevy4.js"
+c:"/roshni-site/_next/static/chunks/3k3qs6_qkvna8.js"
+d:I[86005,["$b","$c"],"ShutdownNotices"]
+e:I[49401,["$b","$c"],"ShutdownTable"]
+12:"ViewportBoundary"
+13:I[97367,["$4"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$4"],"$14"]
+16:"$Sreact.suspense"
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","div",null,{"className":"space-y-10","children":[["$","section",null,{"className":"space-y-3","children":[["$","p",null,{"className":"kicker","children":"IESCO · press releases"}],["$","h1",null,{"className":"headline text-4xl sm:text-6xl","children":"Planned shutdowns"}],["$","p",null,{"className":"max-w-prose text-lg","children":"Dated maintenance shutdowns announced in IESCO press releases, as printed. Feeder matches carry a confidence; names that could not be matched are shown as printed."}],["$","p",null,{"className":"text-sm text-muted","children":"2,675 planned shutdown windows from 2026-07-16 to 2026-10-18."}]]}],["$","$Ld",null,{"locale":"en","t":{"shutdowns":{"title":"Planned shutdowns","intro":"Dated maintenance shutdowns announced in IESCO press releases, as printed. Feeder matches carry a confidence; names that could not be matched are shown as printed.","count":"{n} planned shutdown windows from {from} to {to}.","circle":"Circle","allCircles":"All circles","state":"Feeder match","allStates":"All","upcoming":"Today and later only","results":"{n} matching windows.","searchPlaceholder":"Name as printed, feeder or press release number","sortBy":"Sort by {col}","kicker":"IESCO · press releases","noticesKicker":"Notices","noticesTitle":"Today and the coming days","noticesNone":"No planned shutdowns are listed for today or later.","today":"Today","dayCount":"planned shutdowns listed","moreBelow":"{n} more in the table below.","tableTitle":"All planned shutdowns"},"matchState":{"matched":"Matched to feeder list","pending_review":"Match pending review","unmatched":"Not matched to feeder list","out_of_scope":"Outside the feeder lists"}}}],["$","section",null,{"aria-labelledby":"all-shutdowns","className":"rule pt-4 space-y-4","children":[["$","h2",null,{"id":"all-shutdowns","className":"headline text-3xl","children":"All planned shutdowns"}],["$","$Le",null,{"locale":"en","t":{"shutdowns":"$a:0:1:d:r:props:children:0:props:children:1:props:t:shutdowns","common":{"loading":"Loading schedule data…","loadError":"Could not load the schedule data. Try reloading the page.","search":"Search","searchPlaceholder":"Feeder name, code, grid, IBC or circle","feeder":"Feeder","area":"Area","window":"Scheduled window","effectiveFrom":"Effective from","date":"Date","showAll":"Show all {n}","showFewer":"Show fewer","none":"None.","confidence":"{pct}% match confidence","exact":"exact match","previous":"Previous","next":"Next","page":"Page {page} of {pages}","englishOnly":"Available in English only","release":"No. {no} ({month})","releaseNoMonth":"No. {no}","releaseLink":"IESCO press releases (opens iesco.com.pk)"},"matchState":"$a:0:1:d:r:props:children:0:props:children:1:props:t:matchState","feeder":{"source":"Source","code":"Feeder code","circle":"Circle","grid":"Grid","ibc":"IBC","category":"K-Electric loss category (as published)","atcLoss":"AT&C loss (as published)","effectiveFrom":"Schedule effective from","noSchedule":"No published schedule for this feeder.","dailyTitle":"Daily schedule","dailyIntro":"Scheduled dark minutes in each hour of the day.","windows":"Scheduled windows","minutesPerDay":"{h} hours {m} minutes scheduled per day","scenarioTitle":"IESCO schedule by interruption level","scenarioIntro":"Each row is the schedule if that level is in force. IESCO does not publish which level applies on a given day.","levelRow":"Level {n}","localitiesTitle":"Census localities matched by name","localitiesIntro":"Matched by name only, not by boundary. Approximate matches show their confidence.","shutdownsTitle":"Planned shutdowns for this feeder","release":"Press release","asPrinted":"Name as printed","minutes":"{n} min","pin":"Pin to home page","pinned":"Pinned to home page: unpin","levelStrip":"Scheduled dark windows if level {n} is in force, Pakistan time. The windows are listed below."},"match":{"similarity":"{pct}% is the name similarity between “{printed}” and “{matched}”, after ignoring case, spacing and punctuation (100% = identical names).","exactInfo":"The names are identical after ignoring case, spacing and punctuation, so the match was accepted automatically.","acceptedBy":"Accepted by {who}.","acceptedOn":"Accepted by {who} on {date}.","reason":"Reason given:","who":{"rules":"the written matching rules","llm":"a language model","claude":"Claude (an AI assistant)","owner":"the site owner"}}}}]]}]]}],["$Lf"],"$L10"]}],"p":"$@11","v":null,"s":"$9"}}]]
+2:[["children",{"s":"shutdowns","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":{"n":"lang","t":"d","k":"en","s":["fonts"]},"h":65584,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$16",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Planned shutdowns · Roshni"}],["$","meta","1",{"name":"description","content":"Published load-shedding schedules for IESCO and K-Electric, in Pakistan time."}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@17","v":null,"s":"$9"}},"a":"$@18","u":"$@19","b":"mUsR2PRjs2_Y9GySRtB_P"}
+1a:I[97367,["$4"],"OutletBoundary"]
+f:["$","script","script-0",{"src":"/roshni-site/_next/static/chunks/3k3qs6_qkvna8.js","async":true}]
+10:["$","$L1a",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+19:true
+9:300
+1b:null
+9:C
+18:0
+7:"$undefined"
+17:"$undefined"
+11:"$undefined"

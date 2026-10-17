@@ -1,0 +1,31 @@
+3:"$Sreact.fragment"
+4:"/roshni-site/_next/static/chunks/0umf92h1sb77c.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+b:"/roshni-site/_next/static/chunks/0y4p_3tsjevy4.js"
+c:"/roshni-site/_next/static/chunks/3k3qs6_qkvna8.js"
+d:I[86005,["$b","$c"],"ShutdownNotices"]
+e:I[49401,["$b","$c"],"ShutdownTable"]
+12:"ViewportBoundary"
+13:I[97367,["$4"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$4"],"$14"]
+16:"$Sreact.suspense"
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","div",null,{"className":"space-y-10","children":[["$","section",null,{"className":"space-y-3","children":[["$","p",null,{"className":"kicker","children":"آئیسکو · پریس ریلیز"}],["$","h1",null,{"className":"headline text-4xl sm:text-6xl","children":"طے شدہ بندشیں"}],["$","p",null,{"className":"max-w-prose text-lg","children":"آئیسکو کی پریس ریلیزوں میں اعلان کردہ تاریخ وار مرمتی بندشیں، جیسے چھپیں۔ فیڈر کی مطابقت کے ساتھ اعتماد دکھایا گیا ہے؛ جن ناموں کی مطابقت نہیں ہو سکی وہ ویسے ہی دکھائے گئے ہیں جیسے چھپے تھے۔"}],["$","p",null,{"className":"text-sm text-muted","children":"⁨2026-07-16⁩ سے ⁨2026-10-18⁩ تک طے شدہ بندش کے ⁨2,675⁩ اوقات۔"}]]}],["$","$Ld",null,{"locale":"ur","t":{"shutdowns":{"title":"طے شدہ بندشیں","intro":"آئیسکو کی پریس ریلیزوں میں اعلان کردہ تاریخ وار مرمتی بندشیں، جیسے چھپیں۔ فیڈر کی مطابقت کے ساتھ اعتماد دکھایا گیا ہے؛ جن ناموں کی مطابقت نہیں ہو سکی وہ ویسے ہی دکھائے گئے ہیں جیسے چھپے تھے۔","count":"{from} سے {to} تک طے شدہ بندش کے {n} اوقات۔","circle":"سرکل","allCircles":"تمام سرکل","state":"فیڈر کی مطابقت","allStates":"تمام","upcoming":"صرف آج اور بعد کی","results":"{n} مطابقت رکھنے والے اوقات۔","searchPlaceholder":"نام جیسے چھپا، فیڈر یا پریس ریلیز نمبر","sortBy":"{col} کے لحاظ سے ترتیب دیں","kicker":"آئیسکو · پریس ریلیز","noticesKicker":"اعلانات","noticesTitle":"آج اور آنے والے دن","noticesNone":"آج یا آگے کے لیے کوئی طے شدہ بندش درج نہیں۔","today":"آج","dayCount":"طے شدہ بندشیں درج ہیں","moreBelow":"مزید {n} نیچے جدول میں۔","tableTitle":"تمام طے شدہ بندشیں"},"matchState":{"matched":"فیڈر لسٹ سے مطابقت ہو گئی","pending_review":"مطابقت جائزے کی منتظر","unmatched":"فیڈر لسٹ سے مطابقت نہیں ہوئی","out_of_scope":"فیڈر لسٹوں سے باہر"}}}],["$","section",null,{"aria-labelledby":"all-shutdowns","className":"rule pt-4 space-y-4","children":[["$","h2",null,{"id":"all-shutdowns","className":"headline text-3xl","children":"تمام طے شدہ بندشیں"}],["$","$Le",null,{"locale":"ur","t":{"shutdowns":"$a:0:1:d:r:props:children:0:props:children:1:props:t:shutdowns","common":{"loading":"شیڈول کا ڈیٹا لوڈ ہو رہا ہے…","loadError":"شیڈول کا ڈیٹا لوڈ نہیں ہو سکا۔ صفحہ دوبارہ لوڈ کریں۔","search":"تلاش","searchPlaceholder":"فیڈر کا نام، کوڈ، گرڈ، آئی بی سی یا سرکل","feeder":"فیڈر","area":"علاقہ","window":"شیڈول کا وقت","effectiveFrom":"نافذ از","date":"تاریخ","showAll":"تمام {n} دکھائیں","showFewer":"کم دکھائیں","none":"کوئی نہیں۔","confidence":"مطابقت کا اعتماد {pct}%","exact":"ہوبہو مطابقت","previous":"پچھلا","next":"اگلا","page":"صفحہ {page} از {pages}","englishOnly":"صرف انگریزی میں دستیاب","release":"نمبر {no} ({month})","releaseNoMonth":"نمبر {no}","releaseLink":"آئیسکو کی پریس ریلیز (iesco.com.pk کھلے گا)"},"matchState":"$a:0:1:d:r:props:children:0:props:children:1:props:t:matchState","feeder":{"source":"ماخذ","code":"فیڈر کوڈ","circle":"سرکل","grid":"گرڈ","ibc":"آئی بی سی","category":"کے الیکٹرک کی نقصانات کی کیٹیگری (جیسے شائع ہوئی)","atcLoss":"اے ٹی اینڈ سی نقصانات (جیسے شائع ہوئے)","effectiveFrom":"شیڈول نافذ از","noSchedule":"اس فیڈر کا کوئی شائع شدہ شیڈول نہیں۔","dailyTitle":"روزانہ شیڈول","dailyIntro":"دن کے ہر گھنٹے میں شیڈول کے مطابق بجلی بند رہنے کے منٹ۔","windows":"شیڈول کے اوقات","minutesPerDay":"روزانہ {h} گھنٹے {m} منٹ شیڈول","scenarioTitle":"انٹرپشن لیول کے لحاظ سے آئیسکو کا شیڈول","scenarioIntro":"ہر قطار اس صورت کا شیڈول ہے اگر وہ لیول نافذ ہو۔ آئیسکو یہ شائع نہیں کرتی کہ کسی دن کون سا لیول لاگو ہے۔","levelRow":"لیول {n}","localitiesTitle":"نام کی بنیاد پر ملائے گئے مردم شماری کے علاقے","localitiesIntro":"صرف نام کی بنیاد پر ملائے گئے، حدود کی بنیاد پر نہیں۔ تقریبی مطابقت کے ساتھ اس کا اعتماد دکھایا گیا ہے۔","shutdownsTitle":"اس فیڈر کی طے شدہ بندشیں","release":"پریس ریلیز","asPrinted":"نام جیسے چھپا","minutes":"{n} منٹ","pin":"ہوم پیج پر محفوظ کریں","pinned":"ہوم پیج پر محفوظ ہے: ہٹائیں","levelStrip":"اگر لیول {n} نافذ ہو تو بجلی بند ہونے کے شیڈول شدہ اوقات، پاکستانی وقت کے مطابق۔ اوقات نیچے درج ہیں۔"},"match":{"similarity":"“{printed}” اور “{matched}” کے ناموں میں {pct}% مماثلت ہے، چھوٹے بڑے حروف، خالی جگہ اور رموزِ اوقاف نظرانداز کر کے (100% = ہوبہو ایک نام)۔","exactInfo":"چھوٹے بڑے حروف، خالی جگہ اور رموزِ اوقاف نظرانداز کر کے نام ہوبہو ایک ہیں، اس لیے مطابقت خودبخود قبول ہوئی۔","acceptedBy":"{who} نے قبول کی۔","acceptedOn":"{who} نے {date} کو قبول کی۔","reason":"بتائی گئی وجہ:","who":{"rules":"تحریری اصولوں","llm":"ایک لینگویج ماڈل","claude":"کلاڈ (اے آئی معاون)","owner":"سائٹ کے مالک"}}}}]]}]]}],["$Lf"],"$L10"]}],"p":"$@11","v":null,"s":"$9"}}]]
+2:[["children",{"s":"shutdowns","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":{"n":"lang","t":"d","k":"ur","s":["fonts"]},"h":65584,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$16",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"طے شدہ بندشیں · روشنی"}],["$","meta","1",{"name":"description","content":"آئیسکو اور کے الیکٹرک کے شائع شدہ لوڈ شیڈنگ شیڈول، پاکستانی وقت کے مطابق۔"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@17","v":null,"s":"$9"}},"a":"$@18","u":"$@19","b":"mUsR2PRjs2_Y9GySRtB_P"}
+1a:I[97367,["$4"],"OutletBoundary"]
+f:["$","script","script-0",{"src":"/roshni-site/_next/static/chunks/3k3qs6_qkvna8.js","async":true}]
+10:["$","$L1a",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+19:true
+9:300
+1b:null
+9:C
+18:0
+7:"$undefined"
+17:"$undefined"
+11:"$undefined"
