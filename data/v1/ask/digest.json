@@ -1,0 +1,14 @@
+{
+ "date": "2026-11-28",
+ "facts": {
+  "maint_today": "269",
+  "maint_feeders": "242",
+  "maint_week": "1,212",
+  "shutdowns_today": "205",
+  "ke_effective": "2026-10-23",
+  "news_day": "0"
+ },
+ "text": "Roshni's published data indicates 269 scheduled maintenance windows and 205 scheduled shutdowns for today. The effective date for this information is 2026-10-23.",
+ "narrated_by": "groq/qwen/qwen3.8-27b",
+ "tokens": 418
+}
